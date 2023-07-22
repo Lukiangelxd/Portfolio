@@ -1,0 +1,53 @@
+/*Top and Universal*/
+* {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+    box-sizing: border-box;
+}
+html {
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 100%;
+  }
+
+header {
+    background-color: goldenrod;
+    display: block;
+    padding: 10px;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+header img {
+    height: 105px;
+    border-radius: 5px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+}
+/* Main */
+
+main {
+    margin: 10px;
+    padding: 15px;
+}
+  ol, ul {
+    list-style: circle;
+  }
+
+/* Work Image Placeholders */
+.img-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.img-card img {
+    width: 100%;
+    height: auto;
+  }
