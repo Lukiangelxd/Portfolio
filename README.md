@@ -1,26 +1,10 @@
-# Code Refactor Starter Code
-
-## Horiseon
-Heres the Website <link href="https://lukiangelxd.github.io/Code_Refactoring/" />
-
+# Hannah McEvoy's Portfolio
 ## Description
-As a learning student in coding bootcamp, I wanted to change the Horiseon weebsite so the accessibility alterations were avalible. I accomplished my goal by improving the structure to make it more user freindly and refactoring the CSS codes.
 
-## User Story
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+This portfolio is to represent theprojects that I have done throughout my course and shows to future recruiters what I am capable of doing. Currently I have a navbar that has links to an About section, a work section (that is empty as of now) and a contact section. To make this portfolio possible I have used only HTML and CSS.
 
-## Acceptance Criteria
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+## Link
 
+[Title](<../../../../Downloads/Hannah McEvoy's Personal Portfolio.webm>)
+## License
+N/A
